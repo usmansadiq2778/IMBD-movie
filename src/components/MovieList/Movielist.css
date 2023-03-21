@@ -1,0 +1,15 @@
+.movielist{
+    padding: 0 3rem 3rem 3rem;
+}
+.list_title{
+font-size: 2rem;
+font-weight: 900;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+margin: 2.5rem;
+}
+.card_list{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+}
